@@ -1,0 +1,6 @@
+log*/
+*.out
+search_res/
+
+__pycache__/
+.vscode/
