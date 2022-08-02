@@ -1,0 +1,9 @@
+log*/
+tb_log*/
+__pycache__*/
+checkpoint*/
+
+*.txt
+*.npy
+
+*.out
